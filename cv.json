@@ -1,0 +1,43 @@
+{
+    "employment": [
+        {
+            "time": "2017-2022",
+            "jobTitle": "Sefina Pantbank-Pantlånare",
+            "location": "Stockholm",
+            "text": "Pantlånare"
+        },
+        {
+            "time": "2014-2017",
+            "jobTitle": "Albrekts Guld-Butikschef",
+            "location": "Stockholm",
+            "text": "Burikschef"
+        },
+        {
+            "time": "2011-2013",
+            "jobTitle": "Guldfynd-Butikschef",
+            "location": "Stockholm",
+            "text": "Burikschef"
+        },
+        {
+            "time": "2007-2010",
+            "jobTitle": "Egenföretagare",
+            "location": "Stockholm",
+            "text": "Egenföretagare"
+        }
+    ],
+    "education": [
+        "Chas Academy UX/UI utbildnig Nuvarande","Astar AB-Programmering Jan-2022 - Aug-2022",
+         "Nackademin Bygg&Anläggningingenjör 2007-2009",
+        "EF Språkskolor 2005-2006",
+        "Gymnasium-Handelsprogrammet 2002-2005"
+       
+    ], 
+    "languages": [
+        {
+        "motherTongue":" Modersmål - Arabiska",
+        "fluency":"Flytande - Svenska",
+        "veryGood":"Goda Kunskaper - Engelska"
+        }
+        ]
+ 
+}

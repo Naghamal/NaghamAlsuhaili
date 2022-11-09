@@ -156,6 +156,7 @@ p{
 }
 .mitten{
   display:flex;
+  padding: 2rem;
   justify-content: space-around;
   margin-top: 50px;
   margin-bottom: 150px;
@@ -201,6 +202,7 @@ color: white;
 
 .text-left-paragraf{
   text-align: center;
+  
 }
 
 
