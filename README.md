@@ -1,5 +1,5 @@
 Mitt namn är Nagham ALsuhaili och jag går i klass UXF22.
 
-Här är en länk till min Github
+Här är en länk till min Github pages
 
-http://github.com/Naghamal/NaghamAlsuhaili 
+https://naghamal.github.io/NaghamAlsuhaili/
